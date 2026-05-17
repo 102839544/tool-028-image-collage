@@ -11,11 +11,8 @@
 ## 📦 安装
 
 ```bash
-# 克隆仓库
 git clone https://github.com/102839544/tool-028-image-collage.git
 cd tool-028-image-collage
-
-# 安装依赖
 pip install -r requirements.txt
 ```
 
